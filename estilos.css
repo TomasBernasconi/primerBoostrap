@@ -1,0 +1,14 @@
+.thumbnail { 
+    position: relative; 
+   } 
+.caption { 
+    position: absolute; 
+    top: 45%; 
+    left: 0; 
+    width: 100%; 
+   } 
+.fondoGeneral{
+    background-color: #a55c1b;
+    background-image: linear-gradient(315deg, rgb(124, 79, 43) 0%, #000000 74%);
+
+}
