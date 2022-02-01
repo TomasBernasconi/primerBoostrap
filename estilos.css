@@ -1,3 +1,6 @@
+.cabeza{
+    height: 60px;
+}
 .thumbnail { 
     position: relative; 
    } 
@@ -11,4 +14,8 @@
     background-color: #a55c1b;
     background-image: linear-gradient(315deg, rgb(124, 79, 43) 0%, #000000 74%);
 
+}
+.sinLink{
+    text-decoration: none;
+    color: gray;
 }
